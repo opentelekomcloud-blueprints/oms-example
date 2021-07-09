@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@opentelekomcloud/oms@0.1.4-alpha.2":
-  version "0.1.4-alpha.2"
-  resolved "https://registry.yarnpkg.com/@opentelekomcloud/oms/-/oms-0.1.4-alpha.2.tgz#dbb34b5f2db03d4283658a187e7e2d4f1ca22552"
-  integrity sha512-0BxrUyZxbDx5QO3jfee2iT7zZ1EPB3AfkoiebPIKsxJB315oaeu9I52hTqfEWg2PNcecWWqXQu/cp3LT7+8Tng==
+"@opentelekomcloud/oms@0.1.5-beta.1":
+  version "0.1.5-beta.1"
+  resolved "https://registry.yarnpkg.com/@opentelekomcloud/oms/-/oms-0.1.5-beta.1.tgz#1a07162d9b8696ac4b1b18be6e29f9b72274f217"
+  integrity sha512-zzCEtDgXAHdGJjKgb8Pcd1GayPqFkviAvOc6d13mA9vOzJtGOMBK5MYY9kB6swF0M8N8gW1WqVfFbttehTM12g==
   dependencies:
     cross-fetch "^3.1.4"
     is-cidr "^4.0.2"
